@@ -1,6 +1,6 @@
 <?php
 
-    $nomes = ["Jão", "Joana", "Maria", "José", "Victor"];
+    $nomes = ["Jão", "Joana", "Maria", "José", "Victor", "Luana"];
 
     for ($i = 0; $i < count($nomes); $i++) {
         echo $nomes[$i] . "<br>";
